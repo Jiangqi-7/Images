@@ -1,2 +1,2 @@
-# Rep_Images
+# Images
 图床
